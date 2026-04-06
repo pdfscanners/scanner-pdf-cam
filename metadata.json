@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF Scanner",
+  "description": "A powerful document scanner that converts images to PDF and uses Gemini AI to extract and summarize content.",
+  "requestFramePermissions": ["camera"]
+}
